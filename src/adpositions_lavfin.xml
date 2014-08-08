@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="lav">
+<e> <lg> <l pos="POSTP">ar palīdzību</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">avulla</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">laikā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">aikana</t> <t pos="">kuluessa</t> <t pos="">kestäessä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pie malas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ääressä</t> <t pos="">vieressä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no malas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">äärestä</t> <t pos="">vierestä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">laikā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">aikana</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakus (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viereen</t> <t pos="">ääreen</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">zem (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alle</t> <t pos="">alas</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no apakšas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pa apakšu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">zem</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alla</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">zem</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alle</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">lejpus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alapuolella</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">no apakšas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alapuolelta</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">no lejas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">alapuolelta</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">šķērsām</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">poikittain</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">dēļ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">takia</t> <t pos="">vuoksi</t> <t pos="">tähden</t> <t pos="">johdosta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vietā (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">tilalle</t> <t pos="">sijaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vietā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sijalla</t> <t pos="">tilalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">ne-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">epä-</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">kaut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">samantekevää</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">bez</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">ilman</t> <t pos="">ilman</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">velti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">aiheetta</t> <t pos="">syyttä</t> <t pos="">turhaan</t> <t pos="">suotta</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">virs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ylempänä</t> <t pos="">yläpuolellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">augstāk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ylempänä</t> <t pos="">yläpuolellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">par</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">-sta</t> <t pos="">-stä</t> <t pos="">suhteen</t> <t pos="">nähden</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">-lle</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pāri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ylitse</t> <t pos="">yli</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pār</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ylitse</t> <t pos="">yli</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">ap (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ympäri</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">ap</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ympärille</t> <t pos="">ympärillä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">apkārt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ympärille</t> <t pos="">ympärillä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">ap</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">paikkeilla</t> <t pos="">tienoilla</t> <t pos="">maissa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">aptuveni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">paikkeilla</t> <t pos="">tienoilla</t> <t pos="">maissa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">labad</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">varten</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">priekšā (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">eteen</t> <t pos="">edelle</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pirms</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">ennen</t> <t pos="">ennen</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">priekšā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">edessä</t> <t pos="">edellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pirms</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ennen</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no priekšas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">edestä</t> <t pos="">edeltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">par</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puolesta</t> <t pos="">edestä</t> <t pos="">sijasta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vietā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puolesta</t> <t pos="">edestä</t> <t pos="">sijasta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pēc</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mielestä</t> <t pos="">mukaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">-prāt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mielestä</t> <t pos="">mukaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">vairāk (prievārds pārākās pakāpes veidošanai)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">enemmän (prepositio komparatiivin muodostamiseksi)</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">klāt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">lisää</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">lisää</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">luokse</t> <t pos="">luona</t> <t pos="">parissa</t> <t pos="">ääressä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">luota</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">rokās (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">käsiin</t> <t pos="">valtaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">caur</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kautta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">rokās</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">käsissä</t> <t pos="">vallassa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">käsissä</t> <t pos="">vallassa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no rokas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kädestä</t> <t pos="">käsistä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no rokām</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kädestä</t> <t pos="">käsistä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viereen</t> <t pos="">vierelle</t> <t pos="">rinnalle</t> <t pos="">äärelle</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">viereen</t> <t pos="">vierelle</t> <t pos="">rinnalle</t> <t pos="">äärelle</t> <t pos="">kiinni</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vieressä</t> <t pos="">vierellä</t> <t pos="">rinnalla</t> <t pos="">äärellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">līdzās</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vieressä</t> <t pos="">vierellä</t> <t pos="">rinnalla</t> <t pos="">äärellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no (vietas, kas atrodas blakus)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vierestä</t> <t pos="">viereltä</t> <t pos="">rinnalta</t> <t pos="">ääreltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">sānu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sivu-</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">caur</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kautta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">pitkin</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">kopā ar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kanssa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vieressä</t> <t pos="">vierellä</t> <t pos="">rinnalla</t> <t pos="">äärellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no vietas, kas atrodas blakus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vierestä</t> <t pos="">viereltä</t> <t pos="">rinnalta</t> <t pos="">ääreltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vieressä</t> <t pos="">vierellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakām</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vieressä</t> <t pos="">vierellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">līdzās</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vieressä</t> <t pos="">vierellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakus (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viereen</t> <t pos="">vierelle</t> <t pos="">rinnalle</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakām (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viereen</t> <t pos="">vierelle</t> <t pos="">rinnalle</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">iepretim</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kohdakkain</t> <t pos="">kohdalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">blakus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kohdakkain</t> <t pos="">kohdalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">caur</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">läpi</t> <t pos="">lävitse</t> <t pos="">välistä</t> <t pos="">kautta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">cauru</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">läpi</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">tuvumā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">lähellä</t> <t pos="">likellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no tuvuma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">likeltä</t> <t pos="">läheltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no tuvienes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">likeltä</t> <t pos="">läheltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">tuvumā (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">lähelle</t> <t pos="">likelle</t> <t pos="">läheisyyteen</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">nost</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">maahan</t> <t pos="">alas</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">zemē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">maahan</t> <t pos="">alas</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">maahan</t> <t pos="">alas</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">veidā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">lailla</t> <t pos="">tavalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">modē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">lailla</t> <t pos="">tavalla</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vārdā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">nimissä</t> <t pos="">puolesta</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">par</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">-ksi</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kerrallaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="ADV">par</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">liian</t> <t pos="">liiaksi</t> </tg> </mg> </e>
+<e> <lg> <l pos="ADV">pārāk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">liian</t> <t pos="">liiaksi</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz (vieta)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päällä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz (laiks)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ilmaisee tapahtuman kestoa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">virsū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kimpussa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">päältä</t> <t pos="">päältä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päälle</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pēc</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">perään</t> <t pos="">jälkeen</t> <t pos="">jälkeen</t> <t pos="">lähtien</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vēlāk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">jälkeen</t> <t pos="">lähtien</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vietā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sijasta</t> <t pos="">asemasta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">kā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sijasta</t> <t pos="">asemasta</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">pitkin</t> <t pos="">myöten</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">līdztekus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">rinnakkaisesti</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">pitkin</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">dēļ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">takia</t> <t pos="">vuoksi</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">priekš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">varten</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">nolūkam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">varten</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">atbilstoši</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mukaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">atbilstīgi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mukaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">priekš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">käytössä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">rīcībā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">käytössä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">par</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">-sta</t> <t pos="">-stä</t> <t pos="">edestä</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pēc</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">jälkeen</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">atbilstoši</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mukaan</t> <t pos="">mukaisesti</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">atbilstīgi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mukaan</t> <t pos="">mukaisesti</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">līdzīgi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kaltainen</t> <t pos="">tapainen</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pēc</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">jälkeen</t> <t pos="">päästä</t> <t pos="">kuluttua</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pusē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">puolella</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">malā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">puolella</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz pusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">puoleen</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no puses</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">puolelta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">par</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puolellaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz pusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">luokse</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">luokse</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz pusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">suuntaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">virzienā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">suuntaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz pusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">puolella</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pusē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päin</t> <t pos="">puolella</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">ziņā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puolesta</t> <t pos="">suhteen</t> <t pos="">suhteessa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no puses</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puolelta</t> <t pos="">puolesta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">par</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puolesta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vidū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">keskellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no vidus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">keskeltä</t> <t pos="">joukosta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">uz vidu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">keskelle</t> <t pos="">joukkoon</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vidū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">joukossa</t> <t pos="">keskellä</t> <t pos="">joukossa</t> <t pos="">keskelle</t> <t pos="">joukkoon</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">starpā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">keskellä</t> <t pos="">joukossa</t> <t pos="">keskelle</t> <t pos="">joukkoon</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">starp</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukossa</t> <t pos="">seassa</t> <t pos="">keskuudessa</t> <t pos="">keskellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vidū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukossa</t> <t pos="">seassa</t> <t pos="">keskuudessa</t> <t pos="">keskellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">skaitā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukossa</t> <t pos="">seassa</t> <t pos="">keskuudessa</t> <t pos="">keskellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no vidus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukosta</t> <t pos="">seasta</t> <t pos="">keskuudesta</t> <t pos="">keskeltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">starp</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukkoon</t> <t pos="">sekaan</t> <t pos="">keskuuteen</t> <t pos="">keskelle</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pulkā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukkoon</t> <t pos="">pariin</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">iekšā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sisässä</t> <t pos="">sisällä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no iekšpuses</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sisästä</t> <t pos="">sisältä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">iekšā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <tCtn> <t Contlex="POSTP_" pos="">siʼzzõl</t> <re>virziens</re> </tCtn> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">iekš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <tCtn> <t Contlex="POSTP_" pos="">siʼzzõl</t> <re>virziens</re> </tCtn> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">līdz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">asti</t> <t pos="">saakka</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">aiz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">takana</t> <t pos="">jälkeen</t> <t pos="">perässä</t> <t pos="">jäljessä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pēc</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">jälkeen</t> <t pos="">perässä</t> <t pos="">jäljessä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">aizmugurē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">taakse</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no aizmugures</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">takaa</t> <t pos="">takaa</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">aizmugurē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">taakse</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">aiz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">taakse</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pirms</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">takaperin</t> <t pos="">sitten</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">atpakaļ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">takaperin</t> <t pos="">sitten</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">uz otru pusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toiselle puolelle</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">otrpus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toiselle puolelle</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">otrā pusē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toisella puolella</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">otrpus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toisella puolella</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">no otras puses</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toiselta puolelta</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">no vietas otrpus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toiselta puolelta</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">viņpus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">tuolla puolen</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">no turienes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">tuolta puolen</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">no tās puses</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">tuolta puolen</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">turp</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sinnepäin</t> <t pos="">tuonnepäin</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">uz to pusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sinnepäin</t> <t pos="">tuonnepäin</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">galā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">päässä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">starp</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">välissä</t> <t pos="">välillä</t> <t pos="">kesken</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">vidū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukossa</t> <t pos="">seassa</t> <t pos="">keskuudessa</t> <t pos="">keskellä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no starpas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">välistä</t> <t pos="">väliltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no vidus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">joukosta</t> <t pos="">seasta</t> <t pos="">keskuudesta</t> <t pos="">keskeltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no starpas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">välistä</t> <t pos="">väliltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no vidus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seasta</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">starpā (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">keskelle</t> <t pos="">joukkoon</t> <t pos="">välille</t> <t pos="">väliin</t> <t pos="">sekaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">starp</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">keskellä</t> <t pos="">välissä</t> <t pos="">välillä</t> <t pos="">parissa</t> <t pos="">joukossa</t> <t pos="">välissä</t> <t pos="">välillä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no starpas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">välistä</t> <t pos="">väliltä</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">starpā (virziens)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">välille</t> <t pos="">väliin</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pret</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vasten</t> <t pos="">vastoin</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">pret</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vastaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">iepretim</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vastapäätä</t> </tg> </mg> </e>
+<e> <lg> <l pos="PREP">pret</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vasten</t> <t pos="">vastoin</t> </tg> </mg> </e>
+<e> <lg> <l pos="POSTP">no vietas iepretim</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vastapäätä päin</t> </tg> </mg> </e>
+</r>
