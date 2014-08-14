@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="lav" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="lav">
   <e>
     <lg>
       <l pos="CC">bet</l>
@@ -19,23 +15,6 @@
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="CC">bet</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="CC">mutta</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="CC">ne ..., ne</l>
@@ -53,7 +32,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CC">tikai</l>
@@ -69,7 +47,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CC">un</l>
@@ -85,23 +62,6 @@
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="CC">un</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="CC">ja</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="CS">it kā</l>
@@ -117,7 +77,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">ja</l>
@@ -133,7 +92,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">jo</l>
@@ -151,7 +109,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">ka</l>
@@ -167,7 +124,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">kad</l>
@@ -180,28 +136,12 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="CS">kun</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="CS">kad</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
         <t pos="CS">sillä aikaa kun</t>
 
         <t pos="CS">jolloin</t>
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">kamēr</l>
@@ -217,7 +157,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">kaut</l>
@@ -237,7 +176,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">kaut arī</l>
@@ -253,7 +191,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">kaut kur</l>
@@ -271,7 +208,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">kā</l>
@@ -287,7 +223,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">kāpēc</l>
@@ -305,7 +240,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">lai gan</l>
@@ -321,7 +255,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">taču</l>
@@ -341,7 +274,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">tik</l>
@@ -361,7 +293,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">turklāt</l>
@@ -379,7 +310,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">tā kā</l>
@@ -395,7 +325,6 @@
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
       <l pos="CS">vien</l>
