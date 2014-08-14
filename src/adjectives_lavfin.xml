@@ -246,22 +246,6 @@
 
   <e>
     <lg>
-      <l pos="A">agrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">aikainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">agrākais</l>
 
       <stg>
@@ -276,17 +260,6 @@
         <t pos="A">taannoinen</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">agrākais</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">edellinen</t>
@@ -378,22 +351,6 @@
         <t pos="A">takimmainen</t>
 
         <t pos="A">taka-</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">aizpagājušais</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A"/>
       </tg>
     </mg>
   </e>
@@ -4379,59 +4336,11 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">rohkea</t>
-
-        <t pos="A">varma</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">drošs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">rohkea</t>
-
-        <t pos="A">varma</t>
-
-        <t pos="A">urhea</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">drošs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
         <t pos="A">turvallinen</t>
 
         <t pos="A">harmiton</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">drošs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
 
     <mg>
       <tg xml:lang="fin">
@@ -4442,35 +4351,6 @@
         <t pos="A">urhea</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">drošs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">luotettava</t>
-
-        <t pos="A">varma</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">drošs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">varma</t>
@@ -14472,111 +14352,13 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="A">likainen</t>
-
-        <t pos="A">epäsiisti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">netīrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">likainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">netīrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
         <t pos="A">siivoton</t>
-
-        <t pos="A">likainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">netīrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">likainen</t>
-
-        <t pos="A">epäsiisti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">netīrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">likainen</t>
-
-        <t pos="A">epäsiisti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">netīrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">likainen</t>
 
         <t pos="A">epäsiisti</t>
 
         <t pos="A">epämiellyttävä</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">netīrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">törkyinen</t>
@@ -23140,42 +22922,6 @@
 
   <e>
     <lg>
-      <l pos="A">stingrs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">ankara</t>
-
-        <t pos="A">luja</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">stiprs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">luja</t>
-
-        <t pos="A">vahva</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">stiprs</l>
 
       <stg>
@@ -23190,114 +22936,20 @@
         <t pos="A">luja</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">stiprs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">vahva</t>
-
-        <t pos="A">voimakas</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">stiprs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">vahva</t>
-
-        <t pos="A">voimakas</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">stiprs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">vahva</t>
-
-        <t pos="A">voimakas</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">stiprs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">tuikea</t>
 
         <t pos="A">raju</t>
+        <t pos="A">luja</t>
 
         <t pos="A">ankara</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">stiprs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">väkevä</t>
-
-        <t pos="A">vahva</t>
-
         <t pos="A">voimakas</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">stiprs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">vahva</t>
       </tg>
     </mg>
   </e>
@@ -27828,37 +27480,12 @@
         <t pos="A">hintelä</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vājš</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">laiha</t>
 
         <t pos="A">luinen</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="A">vājš</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
         <t pos="A">laiha</t>
 
         <t pos="A">rasvaton</t>
@@ -27866,17 +27493,6 @@
         <t pos="A">kehno</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vājš</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">heikko</t>
@@ -27884,17 +27500,6 @@
         <t pos="A">laiha</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vājš</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">heikko</t>
@@ -27902,35 +27507,6 @@
         <t pos="A">voimaton</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vājš</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">kehno</t>
-
-        <t pos="A">heikko</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vājš</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">laiha</t>
@@ -27968,35 +27544,10 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="A">heikko</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vārgs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
+        <t pos="A">kehno</t>
         <t pos="A">hintelä</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vārgs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">kehno</t>
@@ -28006,17 +27557,6 @@
         <t pos="A">raihnainen</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vārgs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">heikko</t>
@@ -28024,17 +27564,6 @@
         <t pos="A">laiha</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vārgs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">vaivainen</t>
@@ -28044,56 +27573,11 @@
         <t pos="A">hontelo</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vārgs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
     <mg>
       <tg xml:lang="fin">
         <t pos="A">kehno</t>
 
         <t pos="A">heiveröinen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vārgs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">kehno</t>
-
-        <t pos="A">heikko</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">vārgs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">raihnainen</t>
       </tg>
     </mg>
   </e>
