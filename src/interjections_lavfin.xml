@@ -1,77 +1,1126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="lav">
-<e> <lg> <l pos="Interj">palīgā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">apua</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ahā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ahaa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">aha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">jaaha</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">voi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">paldies</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kiitos</t> <t pos="">kiitoksia</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ak</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ah</t> <t pos="">oi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">āmen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">aamen</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">atā, atā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">hei-hei</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">vau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">hau</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">e</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">haa</t> <t pos="">oo</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">nē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ei</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">vau, vau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">hau-hau</t> <t pos="">vuh-vuh</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">buks</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"/> </mg> </e>
-<e> <lg> <l pos="Interj">blaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">pum</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">mū, mū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ammuu-ammuu</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">dzin-dzin-dzin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"/> </mg> </e>
-<e> <lg> <l pos="Interj">dzin-dzin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"/> </mg> </e>
-<e> <lg> <l pos="Interj">čī, čī</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sir-sir</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">hop</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">hiiop</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">čiep</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">piip</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">kikerigū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kukkokiekuu</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">knakt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">naps</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">blaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">pum</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">krā-krā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kraak-kraak</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">kvā, kvā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kurr-kurr</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">nū, ej nu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">marš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mars</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">mē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">mää</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ņau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">miau</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">mitä</t> <t pos="">mikä</t> <t pos="">mitä</t> <t pos="">mikä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">mū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ammuu</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">jā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">jep</t> <t pos="">joo</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">tā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">jep</t> <t pos="">joo</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">niin</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">jā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kyllä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">nu jā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">no jaa</t> <t pos="">jaa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">nu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">no</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">nū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ņam-ņam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">nam-nam</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ņur</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"/> </mg> </e>
-<e> <lg> <l pos="Interj">o</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">oo</t> <t pos="">oho</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">oho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">oo</t> <t pos="">oho</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ruk-ruk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">röh-röh</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">oho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ohoh</t> <t pos="">oho</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ai</t> <t pos="">voi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ak</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">voi</t> <t pos="">ah</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">aidā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">pēkš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kvak</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">pļukt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">läiskis</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">čiep</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">piip</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">blaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">prozit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kippis</t> <t pos="">prosit</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">tprū (pavēle zirga apturēšanai)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
+<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="lav" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Interj">aha</l>
 
-<e> <lg> <l pos="Interj">ruk-ruk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">škic</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">plaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">šurpu turpu (grīļojoties)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">sveiks, sveiki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">tiš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">re, skat, lūk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">kraukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">čiep čiep, čī čī</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">plunkš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">sauciens govju saukšanai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">skat, lūk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">re</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">lūk, re, skat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">re, skat, lūk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">vau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ļiku ļeku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">▫ pag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">vai, ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos=""/> </tg> </mg> </e>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">jaaha</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ahā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ahaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">voi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ai</t>
+
+        <t pos="Interj">voi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">aidā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ak</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ah</t>
+
+        <t pos="Interj">oi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ak</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">voi</t>
+
+        <t pos="Interj">ah</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">atā, atā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">hei-hei</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">blaukš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">pum</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">blaukš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">pum</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">e</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">haa</t>
+
+        <t pos="Interj">oo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">hop</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">hiiop</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ja</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">niin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">jā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">jep</t>
+
+        <t pos="Interj">joo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">jā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kyllä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kikerigū</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kukkokiekuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">knakt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">naps</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">mitä</t>
+
+        <t pos="Interj">mikä</t>
+
+        <t pos="Interj">mitä</t>
+
+        <t pos="Interj">mikä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kraukš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">krā-krā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kraak-kraak</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">kvā, kvā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kurr-kurr</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">lūk, re, skat</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">marš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">mars</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">mē</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">mää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">mū</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ammuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">mū, mū</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ammuu-ammuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">nu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">no</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">nu jā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">no jaa</t>
+
+        <t pos="Interj">jaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">nē</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ei</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">nū</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">nū, ej nu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">o</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">oo</t>
+
+        <t pos="Interj">oho</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">oho</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">oo</t>
+
+        <t pos="Interj">oho</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">oho</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">ohoh</t>
+
+        <t pos="Interj">oho</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">paldies</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kiitos</t>
+
+        <t pos="Interj">kiitoksia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">palīgā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">apua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">plaukš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">plunkš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">prozit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kippis</t>
+
+        <t pos="Interj">prosit</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">pēkš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">kvak</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">pļukt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">läiskis</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">re</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">re, skat, lūk</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">re, skat, lūk</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ruk-ruk</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">röh-röh</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ruk-ruk</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">sauciens govju saukšanai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">skat, lūk</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">sveiks, sveiki</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">tiš</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">tprū (pavēle zirga apturēšanai)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">tā</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">jep</t>
+
+        <t pos="Interj">joo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">vai, ai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">vau</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">hau</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">vau</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">vau, vau</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">hau-hau</t>
+
+        <t pos="Interj">vuh-vuh</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">āmen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">aamen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">čiep</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">piip</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">čiep</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">piip</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">čiep čiep, čī čī</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">čī, čī</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">sir-sir</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ļiku ļeku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ņam-ņam</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">nam-nam</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ņau</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj">miau</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">škic</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">šurpu turpu (grīļojoties)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">pag</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
 </r>

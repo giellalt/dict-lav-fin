@@ -1,101 +1,1592 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="lav">
-<e> <lg> <l pos="Num">gadu tūkstotis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">vuosituhat</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">ducis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">tusina</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">pirmais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">ensimmäinen</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksän</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksänkymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksäskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">devītais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksäs</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksänsataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņsimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksässadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksänsataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksäntoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">deviņpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdeksästoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">vienpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdestoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">viens</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yksi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">vienpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yksitoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">vienpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">yhdestoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">divi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kaksi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">divdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kaksikymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">divsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">kaksisataa</t> <t pos="">kaksisataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">divpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kaksitoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">desmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kymmenen</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">desmits</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kymmenkunta</t> <t pos="">kymmenisen</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">desmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">desmitdaļa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">kymmenesosa</t> <t pos="">kymmenesosa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">divdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksan</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksankymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksaskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astotais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksansataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņsimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksassadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksansataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksantoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">astoņpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdeksastoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">divsimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdessadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">divpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kahdestoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sešdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuudeskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sestais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuudes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sešsimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuudessadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sešpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuudestoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolme</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trešais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīsdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmekymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīsdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmaskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trešais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīssimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmesataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīssimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmassadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīssimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmesataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīspadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmetoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">trīspadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kolmastoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">seši</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuusi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sešdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuusikymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sešsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">kuusisataa</t> <t pos="">kuusisataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sešpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuusitoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">miljards</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">miljardi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">miljons</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">miljoona</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">vairāki desmiti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">monta kymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četrdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljäkymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četrdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljäskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četrsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljäsataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četrsimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljässadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četrsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljäsataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četrpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljätoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">četrpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljästoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">ceturtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">neljäs</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">ceturtdaļa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">neljännes</t> <t pos="">neljännes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">pārdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">parisenkymmentä</t> <t pos="">parisenkymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">puse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puoli</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">pusotrs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puolitoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">puse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">puoli</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">simts</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sata</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">simtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">sadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemän</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemänkymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemäskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septītais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">seitsemäs</t> <t pos="">seitsemäs</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemästoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemänsataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņsimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemässadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemänsataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemäntoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">septiņpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">seitsemästoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">vairāki desmiti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">monta kymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">jau kurais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">kuinka mones</t> <t pos="">monesko</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">vairāki simti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">monta sataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">otrs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toinen</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">cits</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">toinen</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">tūkstotis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">tuhat</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">tūkstošais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">tuhannes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">piecdesmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viideskymmenes</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">piektais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viides</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">piecsimtais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viidessadas</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">piecpadsmitais</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viidestoista</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">pieci</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viisi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">piecdesmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viisikymmentä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">piecsimt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"><t pos="">viisisataa</t> <t pos="">viisisataa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">piecpadsmit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="fin"> <t pos="">viisitoista</t> </tg> </mg> </e>
+<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="lav" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Num">astotais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksankymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksaskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksantoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksastoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksansataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksansataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">astoņsimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksassadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ceturtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ceturtdaļa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljännes</t>
+
+        <t pos="Num">neljännes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">cits</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">toinen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">desmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kymmenen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">desmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">desmitdaļa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kymmenesosa</t>
+
+        <t pos="Num">kymmenesosa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">desmits</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kymmenkunta</t>
+
+        <t pos="Num">kymmenisen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksänkymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksäskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksän</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksäntoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksästoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksänsataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksänsataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">deviņsimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksässadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">devītais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">divdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kaksikymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">divdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">divi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kaksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">divpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kaksitoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">divpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdestoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">divsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kaksisataa</t>
+
+        <t pos="Num">kaksisataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">divsimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kahdessadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ducis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">tusina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">gadu tūkstotis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">vuosituhat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">jau kurais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuinka mones</t>
+
+        <t pos="Num">monesko</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">miljards</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">miljardi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">miljons</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">miljoona</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">otrs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">toinen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">piecdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viisikymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">piecdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viideskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">pieci</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viisi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">piecpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viisitoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">piecpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viidestoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">piecsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viisisataa</t>
+
+        <t pos="Num">viisisataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">piecsimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viidessadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">piektais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">viides</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">pirmais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">ensimmäinen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">puse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">puoli</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">puse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">puoli</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">pusotrs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">puolitoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">pārdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">parisenkymmentä</t>
+
+        <t pos="Num">parisenkymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemänkymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemäskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemän</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemäntoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemästoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemästoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemänsataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemänsataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septiņsimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemässadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">septītais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemäs</t>
+
+        <t pos="Num">seitsemäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sestais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuudes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sešdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuusikymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sešdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuudeskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">seši</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuusi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sešpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuusitoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sešpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuudestoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sešsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuusisataa</t>
+
+        <t pos="Num">kuusisataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sešsimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kuudessadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">simtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">sadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">simts</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">sata</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trešais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trešais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolme</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīsdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmekymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīsdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmaskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīspadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmetoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīspadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmastoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīssimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmesataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīssimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmesataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">trīssimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">kolmassadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">tūkstotis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">tuhat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">tūkstošais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">tuhannes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">vairāki desmiti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">monta kymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">vairāki desmiti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">monta kymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">vairāki simti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">monta sataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">vienpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yksitoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">vienpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdestoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">vienpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yhdestoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viens</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">yksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četrdesmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljäkymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četrdesmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljäskymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četri</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četrpadsmit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljätoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četrpadsmitais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljästoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četrsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljäsataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četrsimt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljäsataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">četrsimtais</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Num">neljässadas</t>
+      </tg>
+    </mg>
+  </e>
 </r>
