@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="lav">
+
+ <e>
+   <lg>
+     <l pos="N">Afganistāna</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Afganistan</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Albānija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Albania</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Aleksandrija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Aleksandria</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Alfrēds</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Alfrēd</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Alžīrija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Algeria</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Andalūzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Andalusia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Andrejs</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Aņdrõks</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ansis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Ans</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Argentīna</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Argentiina</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Asīrija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Assyria</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Austrumeiropa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Itä-Eurooppa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Austrumlatvija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Itä-Latvia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Austrumvācija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Itä-Saksa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Austrumāfrika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Itä-Afrikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Austrumāzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Itä-Aasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Aļaska</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Alaska</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Babilonija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Babylonia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Babā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Babā</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Baltija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Baltia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Baltijas jūra</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Itämeri</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Bavārija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Baijeri</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Baškīrija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Baškiria</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Bengāle</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Bengali</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Bengālija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Bengali</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Bizantija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Bysantin valtakunta</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Bolīvija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Bolivia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Brazīlija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Brasilia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Brēmene</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Bremen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Burgundija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Burgundi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Butāna</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Bhutan</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Centrāleiropa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Keski-Eurooppa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Centrālā Āfrika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Keskinen Afrikka</t>
+       <t pos="">Keski-Afrikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Centrālāfrika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Keski-Afrikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Centrālāzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Keski-Aasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Cīrihe</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Zürich</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Danciga</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Danzig</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Daugavpils</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Daugavpils</t>
+       <t pos="">Väinänlinna</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Didriķis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Didrõk</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Didzis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Didžā</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidamerika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Amerikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvideiropa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Eurooppa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidigaunija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Viro</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidkurzeme</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Kuurinmaa</t>
+       <t pos="">Etelä-Kurzeme</t>
+       <t pos="">Etelä-Kuurinmaa</t>
+       <t pos="">Etelä-Kurzeme</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidlatvija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Latvia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidrietumāzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Kaakkois-Aasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidslāvija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Jugoslavia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidsomija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Suomi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidvidzeme</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Vidzeme</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidvācija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Saksa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidāfrika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Afrikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Dienvidāzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Etelä-Aasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Eiropa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Eurooppa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Francija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Ranska</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Fricis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pritš</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Gauja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Gauja-joki</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Idumeja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Idumea</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Jēzus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Jeesus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Katrīna</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Katšī</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Kača</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Katšī</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Kijeva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Kiova</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Krievija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Venäjä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Krima</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Krim</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Kristus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Kristus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Kārlis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Kōrli</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Latgale</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Latgale</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Londona</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Lontoo</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Lēna</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Lēna</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Metsepole</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Metsepole</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Norvēģija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Norja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Petrograda</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Petrograd</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Prūsija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Preussi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Pāvils</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Paavali</t>
+       <t pos="">Paulus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Pēterburga</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pietari</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Pēteris</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pētõr</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Rietumeiropa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Länsi-Eurooppa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Rietumigaunija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Länsi-Viro</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Rietumlatvija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Länsi-Latvia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Rietumvācija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Länsi-Saksa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Rietumāfrika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Länsi-Afrikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Rietumāzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Länsi-Aasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Salaspils</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Salaspils</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Slovākija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Slovakia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Svētupe</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Svētupe</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Tārgale</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Tārgale</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Valka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Valka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Veimāra</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Weimar</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Vidusāzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Keski-Aasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļamerika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Amerikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļeiropa</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Eurooppa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļigaunija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Viro</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļkurzeme</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Kuurinmaa</t>
+       <t pos="">Pohjois-Kurzeme</t>
+       <t pos="">Pohjois-Kuurinmaa</t>
+       <t pos="">Pohjois-Kurzeme</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļlatvija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Latvia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļsomija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Suomi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļvidzeme</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Vidzeme</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļvācija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Saksa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļāfrika</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Afrikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ziemeļāzija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pohjois-Aasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ādaži</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Ādaži</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Čehoslovākija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Tšekkoslovakia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Čečenija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Tšetšenia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">Ženēva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Geneve</t>
+     </tg>
+   </mg>
+</e>
+</r>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="lav">
+
+ <e>
+   <lg>
+     <l pos="CS">it kā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuten</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">ja</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">jos</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">jo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">sillä</t>
+       <t pos="">koska</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">ka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">että</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kad</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kun</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kad</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">sillä aikaa kun</t>
+       <t pos="">jolloin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kamēr</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kunnes</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kaut</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">jos vain</t>
+       <t pos="">kunpa</t>
+       <t pos="">olisipa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kaut arī</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">vaikkakin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kaut kur</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuinka</t>
+       <t pos="">kuinkas</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuten</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuin</t>
+       <t pos="">niin kuin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuin</t>
+       <t pos="">niin kuin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">kāpēc</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">miksi</t>
+       <t pos="">minkä vuoksi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">lai gan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">vaikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">lai gan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">vaikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">nekā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">taču</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">vain</t>
+       <t pos="">ainoastaan</t>
+       <t pos="">ei muuta kuin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">tik</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">vain</t>
+       <t pos="">ainoastaan</t>
+       <t pos="">ei muuta kuin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">turklāt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">sitä paitsi</t>
+       <t pos="">samalla</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">tā kā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuten</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">tā kā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuin</t>
+       <t pos="">niin kuin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">tā kā</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kuin</t>
+       <t pos="">niin kuin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="CS">vien</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">vain</t>
+       <t pos="">ainoastaan</t>
+       <t pos="">ei muuta kuin</t>
+     </tg>
+   </mg>
+</e>
+</r>
