@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="lav">
-
- <e>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="lav"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+<e>
    <lg>
-     <l pos="Num">astotais</l>
+     <l pos="Det">astotais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -13,8 +22,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">astoņdesmit</l>
      <stg> <st/>
@@ -26,10 +34,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">astoņdesmitais</l>
+     <l pos="Det">astoņdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -39,8 +46,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">astoņi</l>
      <stg> <st/>
@@ -52,8 +58,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">astoņpadsmit</l>
      <stg> <st/>
@@ -65,10 +70,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">astoņpadsmitais</l>
+     <l pos="Det">astoņpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -78,8 +82,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">astoņsimt</l>
      <stg> <st/>
@@ -91,23 +94,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">astoņsimt</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">kahdeksansataa</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
-   <lg>
-     <l pos="Num">astoņsimtais</l>
+     <l pos="Det">astoņsimtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -117,10 +106,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">ceturtais</l>
+     <l pos="Det">ceturtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -130,10 +118,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">ceturtdaļa</l>
+     <l pos="N">ceturtdaļa</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -143,10 +130,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">cits</l>
+     <l pos="Det">cits</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -156,8 +142,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">desmit</l>
      <stg> <st/>
@@ -169,10 +154,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">desmitais</l>
+     <l pos="Det">desmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -182,10 +166,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">desmitdaļa</l>
+     <l pos="N">desmitdaļa</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -195,8 +178,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">desmits</l>
      <stg> <st/>
@@ -209,8 +191,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">deviņdesmit</l>
      <stg> <st/>
@@ -222,10 +203,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">deviņdesmitais</l>
+     <l pos="Det">deviņdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -235,8 +215,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">deviņi</l>
      <stg> <st/>
@@ -248,8 +227,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">deviņpadsmit</l>
      <stg> <st/>
@@ -261,10 +239,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">deviņpadsmitais</l>
+     <l pos="Det">deviņpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -274,8 +251,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">deviņsimt</l>
      <stg> <st/>
@@ -287,23 +263,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">deviņsimt</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">yhdeksänsataa</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
-   <lg>
-     <l pos="Num">deviņsimtais</l>
+     <l pos="Det">deviņsimtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -313,10 +275,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">devītais</l>
+     <l pos="Det">devītais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -326,8 +287,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">divdesmit</l>
      <stg> <st/>
@@ -339,10 +299,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">divdesmitais</l>
+     <l pos="Det">divdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -352,8 +311,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">divi</l>
      <stg> <st/>
@@ -365,8 +323,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">divpadsmit</l>
      <stg> <st/>
@@ -378,10 +335,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">divpadsmitais</l>
+     <l pos="Det">divpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -391,8 +347,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">divsimt</l>
      <stg> <st/>
@@ -404,10 +359,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">divsimtais</l>
+     <l pos="Det">divsimtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -417,8 +371,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">ducis</l>
      <stg> <st/>
@@ -430,8 +383,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">gadu tūkstotis</l>
      <stg> <st/>
@@ -443,10 +395,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">jau kurais</l>
+     <l pos="Det">jau kurais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -457,8 +408,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">miljards</l>
      <stg> <st/>
@@ -470,8 +420,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">miljons</l>
      <stg> <st/>
@@ -483,10 +432,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">otrs</l>
+     <l pos="Det">otrs</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -496,8 +444,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">piecdesmit</l>
      <stg> <st/>
@@ -509,10 +456,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">piecdesmitais</l>
+     <l pos="Det">piecdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -522,8 +468,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">pieci</l>
      <stg> <st/>
@@ -535,8 +480,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">piecpadsmit</l>
      <stg> <st/>
@@ -548,10 +492,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">piecpadsmitais</l>
+     <l pos="Det">piecpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -561,8 +504,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">piecsimt</l>
      <stg> <st/>
@@ -574,10 +516,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">piecsimtais</l>
+     <l pos="Det">piecsimtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -587,10 +528,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">piektais</l>
+     <l pos="Det">piektais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -600,10 +540,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">pirmais</l>
+     <l pos="Det">pirmais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -613,8 +552,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">puse</l>
      <stg> <st/>
@@ -626,21 +564,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
-   <lg>
-     <l pos="Num">puse</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">puoli</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">pusotrs</l>
      <stg> <st/>
@@ -652,8 +576,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">pārdesmit</l>
      <stg> <st/>
@@ -665,8 +588,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">septiņdesmit</l>
      <stg> <st/>
@@ -678,10 +600,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">septiņdesmitais</l>
+     <l pos="Det">septiņdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -691,8 +612,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">septiņi</l>
      <stg> <st/>
@@ -704,8 +624,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">septiņpadsmit</l>
      <stg> <st/>
@@ -717,10 +636,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">septiņpadsmitais</l>
+     <l pos="Det">septiņpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -730,21 +648,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
-   <lg>
-     <l pos="Num">septiņpadsmitais</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">seitsemästoista</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">septiņsimt</l>
      <stg> <st/>
@@ -756,23 +660,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">septiņsimt</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">seitsemänsataa</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
-   <lg>
-     <l pos="Num">septiņsimtais</l>
+     <l pos="Det">septiņsimtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -782,10 +672,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">septītais</l>
+     <l pos="Det">septītais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -795,10 +684,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">sestais</l>
+     <l pos="Det">sestais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -808,8 +696,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">sešdesmit</l>
      <stg> <st/>
@@ -821,10 +708,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">sešdesmitais</l>
+     <l pos="Det">sešdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -834,8 +720,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">seši</l>
      <stg> <st/>
@@ -847,8 +732,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">sešpadsmit</l>
      <stg> <st/>
@@ -860,10 +744,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">sešpadsmitais</l>
+     <l pos="Det">sešpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -873,8 +756,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">sešsimt</l>
      <stg> <st/>
@@ -886,10 +768,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">sešsimtais</l>
+     <l pos="Det">sešsimtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -899,10 +780,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">simtais</l>
+     <l pos="Det">simtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -912,8 +792,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">simts</l>
      <stg> <st/>
@@ -925,8 +804,19 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
+   <lg>
+     <l pos="Det">trešais</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kolmas</t>
+     </tg>
+   </mg>
+</e>
+<e>
    <lg>
      <l pos="Num">trešais</l>
      <stg> <st/>
@@ -938,21 +828,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
-   <lg>
-     <l pos="Num">trešais</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">kolmas</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">trīs</l>
      <stg> <st/>
@@ -964,8 +840,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">trīsdesmit</l>
      <stg> <st/>
@@ -977,10 +852,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">trīsdesmitais</l>
+     <l pos="Det">trīsdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -990,8 +864,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">trīspadsmit</l>
      <stg> <st/>
@@ -1003,10 +876,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">trīspadsmitais</l>
+     <l pos="Det">trīspadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1016,8 +888,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">trīssimt</l>
      <stg> <st/>
@@ -1029,23 +900,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">trīssimt</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">kolmesataa</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
-   <lg>
-     <l pos="Num">trīssimtais</l>
+     <l pos="Det">trīssimtais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1055,8 +912,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">tūkstotis</l>
      <stg> <st/>
@@ -1068,10 +924,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">tūkstošais</l>
+     <l pos="Det">tūkstošais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1081,8 +936,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">vairāki desmiti</l>
      <stg> <st/>
@@ -1094,21 +948,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
-   <lg>
-     <l pos="Num">vairāki desmiti</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">monta kymmentä</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">vairāki simti</l>
      <stg> <st/>
@@ -1120,8 +960,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">vienpadsmit</l>
      <stg> <st/>
@@ -1133,10 +972,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">vienpadsmitais</l>
+     <l pos="Det">vienpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1146,21 +984,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
-   <lg>
-     <l pos="Num">vienpadsmitais</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">yhdestoista</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">viens</l>
      <stg> <st/>
@@ -1172,8 +996,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">četrdesmit</l>
      <stg> <st/>
@@ -1185,10 +1008,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">četrdesmitais</l>
+     <l pos="Det">četrdesmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1198,8 +1020,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">četri</l>
      <stg> <st/>
@@ -1211,8 +1032,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">četrpadsmit</l>
      <stg> <st/>
@@ -1224,10 +1044,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">četrpadsmitais</l>
+     <l pos="Det">četrpadsmitais</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1237,8 +1056,7 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
      <l pos="Num">četrsimt</l>
      <stg> <st/>
@@ -1250,23 +1068,9 @@
      </tg>
    </mg>
 </e>
-
- <e>
+<e>
    <lg>
-     <l pos="Num">četrsimt</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="">neljäsataa</t>
-     </tg>
-   </mg>
-</e>
-
- <e>
-   <lg>
-     <l pos="Num">četrsimtais</l>
+     <l pos="Det">četrsimtais</l>
      <stg> <st/>
      </stg>
    </lg>
