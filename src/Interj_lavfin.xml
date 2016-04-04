@@ -811,4 +811,28 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Interj">klusu!</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">hiljaa!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">labi!</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">hyvä!</t>
+     </tg>
+   </mg>
+</e>
 </r>
