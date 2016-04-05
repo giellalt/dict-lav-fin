@@ -4,6 +4,42 @@
      </sourcenote> </lics>
 <e>
    <lg>
+     <l pos="N" type="Prop">Abrukas sala</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="" type="">Abruka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Rīgas olekts</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Riian kyynärä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Rīgas pūrs</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Riian vakka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N" type="Prop">Dieva jērs</l>
      <stg> <st/>
      </stg>
@@ -11,6 +47,78 @@
    <mg>
      <tg xml:lang="fin">
        <t pos="">Jumalan Karitsa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Satversmes komisija</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">perustuslakivaliokunta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Satversmes sapulce</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">perustuslakikokous</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Saules sistēma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Aurinkokunta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Siltuma māte</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">YY</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Tautas padome</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">kansanneuvosto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Piena ceļš</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Linnunrata</t>
      </tg>
    </mg>
 </e>

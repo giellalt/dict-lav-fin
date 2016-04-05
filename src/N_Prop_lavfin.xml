@@ -12,13 +12,26 @@
      </sourcenote> </lics>
 <e>
    <lg>
-     <l pos="N" type="Prop">Abrukas sala</l>
+     <l pos="N">Plejādes</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="fin">
-       <t pos="" type="">Abruka</t>
+       <t pos="">Seulaset</t>
+       <t pos="">Plejadit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Polārzvaigzne</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Napatähti</t>
      </tg>
    </mg>
 </e>

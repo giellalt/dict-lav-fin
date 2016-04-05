@@ -40,6 +40,236 @@
 </e>
 <e>
    <lg>
+     <l pos="N">Baltijas dzegužpirkstīte</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">leveälehtikämmekkä</t>
+       <t pos="">baltiantoukokämmekkä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Barbaras diena</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Pyhän Barbaran päivä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Debesbraukšanas diena</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">helatorstai</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Jāņu diena</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">juhannuspäivä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Jāņu nakts</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">juhannusyö</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Jāņu vaiņags</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">juhannusseppele</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Jāņu vakars</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">juhannusaatto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Katrīnas dienas ķekatnieks</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Katariinan päivän aattona (24.11.) talosta taloon kulkevat hulluttelijat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Krusta pacelšanas diena</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">helatorstai</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Lauka māte</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">metsänemäntä</t>
+       <t pos="">“peltojen” emäntä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Lielā Piektdiena</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">pitkäperjantai</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Miķeļu mēnesis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">syyskuu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Mārtiņdienas ķekatnieks</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">Martinpäivän kerjäläinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Pelnu diena</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">tuhkakeskiviikko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Ziemassvētku svece</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">joulukynttilä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Ziemassvētku vakars</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">jouluilta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Ziemassvētku vecītis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">joulupukki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Zviedrijas pīlādzis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">ruotsinpihlaja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Zviedrijas pīlādža oga</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="">ruotsinpihlajanmarja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Phrase">abu dzimumu</l>
      <stg> <st/>
      </stg>
